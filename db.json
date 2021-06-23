@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "name": "Tien Anh", "age": "20" },
+    { "id": 2, "name": "Ech Xanh", "age": "23" }
+
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+ "info": [
+    { "id": 1, "name": "Tien Anh", "age": "20" },
+    { "id": 2, "name": "Ech Xanh", "age": "23" }
+
+  ]
+}
