@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Tống Tiến Anh",
+      "age": "22",
+      "thumbnailUrl": "https://pdp.edu.vn/wp-content/uploads/2021/01/hinh-anh-girl-xinh-toc-ngan-de-thuong.jpg"
+    },
+    {
+      "name": "Thao",
+      "age": "20",
+      "id": 2
+    },
+    {
+      "name": "Tongtienanh",
+      "age": "22",
+      "thumbnailUrl": "https://scr.vn/wp-content/uploads/2020/08/H%C3%ACnh-g%C3%A1i-%C4%91%E1%BA%B9p-t%C3%B3c-d%C3%A0i-ng%E1%BA%A7u.jpg",
+      "id": 3
+    },
+    {
+      "name": "Lã Phú Anh",
+      "age": "20",
+      "thumbnailUrl": "https://i.pinimg.com/564x/3c/dd/56/3cdd56556aaf558988e225c312d34e97.jpg",
+      "id": 4
+    },
+    {
+      "name": "Lã Phú Anh",
+      "age": "18",
+      "thumbnailUrl": "https://i.pinimg.com/736x/7d/e9/99/7de9996cfc1d9f1092258d83ce0326bf.jpg",
+      "id": 5
+    },
+    {
+      "name": "Lã Phú Anh",
+      "age": "12",
+      "thumbnailUrl": "",
+      "id": 6
+    },
+    {
+      "name": "Lã Phú Anh",
+      "age": "20",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
